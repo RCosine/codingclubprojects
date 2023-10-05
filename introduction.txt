@@ -1,0 +1,10 @@
+Hello everyone,
+
+Our first project is on "Binary Search."
+Binary search is a fast and efficient algorithm that can find an element in a sorted list by repeatedly 
+dividing the list into two halves and comparing the middle element with the target value. It has many applications 
+in computer science, such as searching databases, encryption, and compression. In this project, we will implement binary 
+search in Python and test its performance on different datasets.
+
+Link to tutorial: https://www.youtube.com/watch?v=8ext9G7xspg&t=4553s&ab_channel=freeCodeCamp.org
+We are doing project #8, which can be found at the 1:15:53 timestamp.
